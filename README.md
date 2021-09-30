@@ -1,6 +1,26 @@
-### Hi there 👋
+<html lang="en">
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+  </head>
+
+<div class="container">
+    <div class="row">
+      <div class="col">
+          <a href="https://profile.intra.42.fr/users/obalta"> 
+            <img src="https://badge42.herokuapp.com/api/stats/obalta" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
+          </a>
+      </div>
+    </div>
+</div>
+
+</html>
 
 <!--
+### Hi there 👋
+
 **PapyMonkey/PapyMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
