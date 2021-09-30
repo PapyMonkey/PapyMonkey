@@ -9,8 +9,8 @@
 <div class="container">
     <div class="row">
       <div class="col">
-          <a href="https://profile.intra.42.fr/users/obalta"> 
-            <img src="https://badge42.herokuapp.com/api/stats/obalta" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
+          <a href="https://profile.intra.42.fr/users/aguiri"> 
+            <img src="https://badge42.herokuapp.com/api/stats/aguiri" alt="Profil cliquable de l'etudiant obalta redirigeant vers l'intranet de l'ecole 42">
           </a>
       </div>
     </div>
