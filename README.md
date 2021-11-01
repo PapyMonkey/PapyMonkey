@@ -1,5 +1,6 @@
 # Bonjour ! 🥖
 
+### 42 profile
 <html lang="en">
   
   <head>
@@ -19,6 +20,12 @@
 </div>
 
 </html>
+
+## GitHub graphics
+
+![PapyMonkey's github stats](https://github-readme-stats.vercel.app/api?username=PapyMonkey&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapyMonkey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
