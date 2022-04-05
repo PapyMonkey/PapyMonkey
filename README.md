@@ -18,7 +18,7 @@
     <div class="row">
       <div class="col">
           <a href="https://profile.intra.42.fr/users/aguiri">
-            <img src="https://badge42.herokuapp.com/api/stats/aguiri" alt="Profil cliquable de l'etudiant aguiri redirigeant vers l'intranet de l'ecole 42">
+            <img src="https://badge42.vercel.app/api/v2/cl1m1z528009409l5bo2ovzih/stats?cursusId=21&coalitionId=116" alt="aguiri's 42 stats" />
           </a>
       </div>
     </div>
